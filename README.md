@@ -2,7 +2,7 @@
 ## 삽질 스터디
 ...
 
-## 프로젝트 소개 (Introduction)
+## 스터디  소개 (Introduction)
 
 
 #### 팀원
