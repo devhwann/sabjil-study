@@ -7,3 +7,8 @@ function solution(sides) {
   });
   return sidesSort[0] + sidesSort[1] > sidesSort[2] ? 1 : 2;
 }
+def solution(sides):
+    sides.sort()    
+    return 1 if sides[0] + sides[1] > sides[2] else 2
+
+
