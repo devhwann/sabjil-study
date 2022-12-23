@@ -4,7 +4,7 @@
 //문자열 s 입력
 //대소문자 구별 x
 function solution(s){
-    //resuce함수로 객체 반환
+    //reduce함수로 객체 반환
     let object = s.toLowerCase().split("").reduce((obj, char)=>{
         if(char === 'p') obj['p']++;
         else if(char === 'y') obj['y']++; 
