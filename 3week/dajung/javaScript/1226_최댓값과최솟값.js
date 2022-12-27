@@ -4,7 +4,6 @@
 //문자열 s
 function solution(s) {
     let arr = s.split(" ").map(c => parseInt(c))
-    console.log(arr)
     let str = [Math.min(...arr), Math.max(...arr)]
     return str.join(" ")
 }
