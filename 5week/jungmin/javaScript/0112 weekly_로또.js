@@ -10,5 +10,5 @@ function solution(lottos, win_nums) {
     }
     const max = cnt === 0 && zero === 0 ? 6 - cnt - zero : 7 - cnt - zero;
     const min = cnt === 0 ? 6 - cnt : 7 - cnt;
-    return [max, min]
+    return [max, min];
 }
