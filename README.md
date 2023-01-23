@@ -2,13 +2,14 @@
 
 ### 프로젝트 소개
 
-- 프로그래머스 레벨 0, 1, 2 문제 풀이 - 1일 1커밋, 매주 1회 라이브 코딩
+- <a href="https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1">프로그래머스</a> 레벨 0, 1, 2 문제 풀이 (Python, JavaScript)
+- 1일 1커밋, 매주 1회 라이브 코딩
 - 주요 자료구조, 알고리즘 발표 (Blog, PPT) 및 구현
 - Git 댓글을 활용한 피드백, Weekly 문제 PR Code Review
 
 ### 기간
 
-- 2022/12/12 ~ 2023/1/22
+- 2022/12/12 ~ 2023/1/22 (총 6주)
 
 ### 팀원
 
